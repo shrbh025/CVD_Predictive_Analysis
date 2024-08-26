@@ -1,5 +1,5 @@
 # Cardio Vascular Diesease Predictive Analysis
-Background
+Background  
   ● This dataset contains records of patient data concerning 12 features:
   ○ Age, Gender, Height, Weight, Systolic Blood Pressure, Diastolic Blood Pressure, Cholesterol, Glucose,
   Smoking, Alcohol Intake, Physical Activity, and the Presence or Absence of Cardiovascular Disease.
@@ -10,10 +10,10 @@ Background
   ○ 70,000 rows of cardio dataset
   ● Link to Kaggle Dataset: https://www.kaggle.com/code/sulianova/eda-cardiovascular- data/notebook
 
-Objective
+Objective  
   ● To uncover insights concerning factors that make an individual more likely to acquire cardiovascular disease by use of patient examination results.
 
-Predictive Analysis & Conclusion
+Predictive Analysis & Conclusion  
   ● Models implemented:
     ○ Decision Tree
     ○ Random Forest Classifier
