@@ -20,4 +20,4 @@ Predictive Analysis & Conclusion
     ○ Logistic Regression 
     ○ KNN 
 
-[Download Report](relative/path/to/your/document.pd
+[Download Report]([relative/path/to/your/document.pd](https://github.com/shrbh025/CVD_Predictive_Analysis/blob/main/BDA%20Project%20Presentation.pdf)
